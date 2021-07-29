@@ -1,0 +1,15 @@
+.bg-header {
+  background-color: #264653;
+}
+
+.img-grey {
+  filter: grayscale(100%);
+}
+
+.btn-bg {
+  background-color: #e76f51;
+}
+
+.text-slice-color {
+  color: #e76f51;
+}
